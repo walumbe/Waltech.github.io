@@ -291,9 +291,10 @@ img{
         box-sizing: border-box;
     }
     .jumbotron{
+        margin: auto;
         align-items: center;
         display: flex;
-        grid-gap: 60px;
+        grid-gap: 50px;
         height: 5rem;
         width: 100%;
     }
@@ -324,6 +325,7 @@ img{
     .footer{
         display: flex;
         flex-wrap: wrap;
+        margin: auto;
     }
 }
 
